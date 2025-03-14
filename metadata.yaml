@@ -1,0 +1,34 @@
+_repo: Poultry-for-profit_75419
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Power, R. A. (Richard Anderson)
+    alias: Power, Richard Anderson
+    birthdate: 1888
+    deathdate: 1974
+    gutenberg_agent_id: '57990'
+    url: http://www.gutenberg.org/2009/agents/57990
+description: ''
+gutenberg_issued: '2025-02-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75419'
+language: en
+pgterms:marc904: https://archive.org/details/poultryforprofit00powe/page/2/mode/2up
+pgterms:marc905: 20241126101640power
+pgterms:marc906: '1923'
+pgterms:marc907: us
+production_note: Bob Taylor, Tim Miller and the Online Distributed Proofreading Team
+  at https://www.pgdp.net (This file was produced from images generously made available
+  by The Internet Archive)
+publication_note: '  $aGirard :$bHaldeman-Julius Company, $c1923.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: Ten cent pocket series ; no. 430
+subjects:
+- !lcsh 'Poultry'
+- !lcc 'SF'
+- GITenberg
+title: Poultry for profit
+url: http://www.gutenberg.org/ebooks/75419
