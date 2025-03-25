@@ -1,5 +1,8 @@
 _repo: Poultry-for-profit_75419
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 75419-h/images/cover.jpg
 creator:
   author:
     agent_name: Power, R. A. (Richard Anderson)
@@ -9,6 +12,8 @@ creator:
     gutenberg_agent_id: '57990'
     url: http://www.gutenberg.org/2009/agents/57990
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/75419#Poultry-for-profit
 gutenberg_issued: '2025-02-19'
 gutenberg_type: Text
 identifiers:
